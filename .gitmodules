@@ -1,0 +1,6 @@
+[submodule "repos/companion"]
+	path = repos/companion
+	url = git@github.com:Legend-Espresso/companion.git
+[submodule "repos/state-machine"]
+	path = repos/state-machine
+	url = git@github.com:Legend-Espresso/state-machine.git
