@@ -8,18 +8,19 @@ Welcome to Legend Espresso's documentation!
 
 **Legend Espresso** is a coffee machine
 
-.. click:: companion.legend_companion.companion:main
-   :prog: legend-companion
-   :nested: full
-
-.. automodule:: companion.legend_companion.companion
-    :members:
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   usage.md
+   overview.md
+
+   quickstart.md
+
+   companion_developer_reference.rst
+
+   legendos_developer_reference.rst
+
+   changelog.md
 
 Indices and tables
 ==================
