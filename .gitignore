@@ -3,7 +3,7 @@
 
 # sphinx build folder
 docs/build
-
+_build
 # Compiled source #
 ###################
 *.com
