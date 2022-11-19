@@ -14,13 +14,7 @@ Welcome to Legend Espresso's documentation!
 
    overview.md
 
-   quickstart.md
-
-   companion_developer_reference.rst
-
-   legendos_developer_reference.rst
-
-   changelog.md
+   legend_os/legend_os.rst
 
 Indices and tables
 ==================
